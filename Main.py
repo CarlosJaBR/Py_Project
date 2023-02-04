@@ -8,4 +8,10 @@ print(lista_1)
 print(lista_2)
 
 
+#Métodos sobre listas
+print(lista_1.clear()) #El método clear borra todos los elementos de una lista.
+print(len(lista_1)) #
+
+
+
 
